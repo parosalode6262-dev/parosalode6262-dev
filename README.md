@@ -19,7 +19,7 @@
 - Express.js
 
 📫 Connect with me:
-- LinkedIn: (Apna LinkedIn link)
+- LinkedIn: LinkedIn: https://www.linkedin.com/in/parul-salode
 - GitHub: https://github.com/parosalode6262-dev
 
 ⭐ Thanks for visiting my profile!
