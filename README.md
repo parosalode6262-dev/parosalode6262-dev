@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Parul Salode
 
-<!--
-**parosalode6262-dev/parosalode6262-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech (Computer Science & Engineering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Git
+- GitHub
+
+🌱 Currently Learning:
+- MERN Stack
+- MongoDB
+- Node.js
+- Express.js
+
+📫 Connect with me:
+- LinkedIn: (Apna LinkedIn link)
+- GitHub: https://github.com/parosalode6262-dev
+
+⭐ Thanks for visiting my profile!
